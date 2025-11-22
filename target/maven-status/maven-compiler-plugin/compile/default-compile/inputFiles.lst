@@ -1,7 +1,0 @@
-/Users/sanjaysmac/Task-Manager-API/src/main/java/com/example/taskmanager/model/Task.java
-/Users/sanjaysmac/Task-Manager-API/src/main/java/com/example/taskmanager/model/TaskStatus.java
-/Users/sanjaysmac/Task-Manager-API/src/main/java/com/example/taskmanager/service/TaskService.java
-/Users/sanjaysmac/Task-Manager-API/src/main/java/com/example/taskmanager/TaskManagerApiApplication.java
-/Users/sanjaysmac/Task-Manager-API/src/main/java/com/example/taskmanager/config/OpenApiConfig.java
-/Users/sanjaysmac/Task-Manager-API/src/main/java/com/example/taskmanager/controller/TaskController.java
-/Users/sanjaysmac/Task-Manager-API/src/main/java/com/example/taskmanager/repository/TaskRepository.java
