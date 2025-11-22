@@ -1,0 +1,7 @@
+com/example/taskmanager/repository/TaskRepository.class
+com/example/taskmanager/config/OpenApiConfig.class
+com/example/taskmanager/model/TaskStatus.class
+com/example/taskmanager/TaskManagerApiApplication.class
+com/example/taskmanager/controller/TaskController.class
+com/example/taskmanager/model/Task.class
+com/example/taskmanager/service/TaskService.class
